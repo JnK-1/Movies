@@ -2,7 +2,7 @@
 //  ProfileCOntroller.swift
 //  Test
 //
-//  Created by Jannik Thieme on 13.12.16.
+//  Created by JnK on 13.12.16.
 //  Copyright © 2016 Jannik Thieme. All rights reserved.
 //
 
